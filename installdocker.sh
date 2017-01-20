@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Installation NTP
+sudo apt-get install ntp -y
+
 # Installation Docker
 curl -fsSL https://test.docker.com/ | sh
 
