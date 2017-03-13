@@ -501,8 +501,8 @@
         "autoUpgradeMinorVersion": true,
         "ProtectedSettings": { },
         "settings": {
-          "fileUris": [ "https://raw.githubusercontent.com/fabiendibot/AzureJSON/master/installgluster.sh" ],
-          "commandToExecute": "sh gluster.sh"
+          "fileUris": [ "https://raw.githubusercontent.com/fabiendibot/AzureJSON/master/InstallGluster.sh" ],
+          "commandToExecute": "sh InstallGluster.sh"
         }
       }
     }        "hardwareProfile": {
